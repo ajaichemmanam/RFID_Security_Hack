@@ -1,0 +1,22 @@
+VERSION=1
+/
+/ChallengeA
+  00000007:AVRChallengeSetA.ino.elf:c0a82b91e19926371506672661
+  0000000f:TeensyChallengeSetA.ino.elf:ac107a7eff571788181915748
+/ChallengeB
+  00000005:AVRChallengeSetB.ino.elf:c0a82b91e19726353330340011
+  00000012:TeensyChallengeSetB.ino.elf:ac107a7f33078223240792718
+/ChallengeC
+  00000003:AVRChallengeSetC.ino.elf:c0a82b91e19426333595564715
+  00000013:TeensyChallengeSetC.ino.elf:ac107a7f38880418534142470
+/ChallengeD
+  00000001:AVRChallengeSetD.ino.elf:c0a82b91e19126304264930617
+  00000014:TeensyChallengeSetD.ino.elf:ac107a7f3e382803808447213
+/ChallengeE
+  00000009:AVRChallengeSetE.ino.elf:c0a817e58634278629534538
+  00000008:TeensyChallengeSetE.ino.elf:c0a817e58534278393006720
+/ChallengeF
+  0000000b:AVRChallengeSetF.ino.elf:c0a817e58834297778031180
+  00000011:TeensyChallengeSetF.ino.elf:ac107a7f00272619683574386
+NEXT-ID:15
+MD5:d41d8cd98f00b204e9800998ecf8427e
